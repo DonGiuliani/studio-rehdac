@@ -1,8 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 
-import Banner from "./components/Header/Banner"
 import Footer from "./components/Footer/Footer";
-
 import Home from "./Pages/Home";
 import Presentation from "./Pages/Presentation";
 import Engagements from "./Pages/Engagements";

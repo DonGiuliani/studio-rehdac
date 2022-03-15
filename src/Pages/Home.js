@@ -1,4 +1,4 @@
-import BannerHome from "../components/Header/Header";
+import BannerHome from "../components/Banner/BannerHome";
 import Hero from "../components/Hero/Hero";
 import LastArticles from "../components/Articles/LastArticles";
 import Form from "../components/Form/Form";

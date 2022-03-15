@@ -1,4 +1,4 @@
-import Banner from "../components/Header/Banner";
+import Banner from "../components/Banner/Banner";
 
 export default function Prestations() {
     return (

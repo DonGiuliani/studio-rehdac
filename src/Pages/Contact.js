@@ -1,5 +1,5 @@
 import Form from "../components/Form/Form";
-import Banner from "../components/Header/Banner";
+import Banner from "../components/Banner/Banner";
 import "./Pages.css";
 
 export default function Contact() {

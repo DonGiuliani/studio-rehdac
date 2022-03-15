@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import "./Header.css"
+import "./Banner.css"
 
 export default function Banner() {
 
@@ -20,16 +20,18 @@ export default function Banner() {
                     </Link>
 
                     <Link style={{ textDecoration: "none" }} to="/engagements">
-                        <ul className="navigation__button engagement__menu">
-                            Engagements
-                            <li className="engagement__button">
-                                Écologique
-                            </li>
+                        <div id="menu-deroulant">
+                            <ul className="navigation__button engagement__menu">
+                                Engagements
+                                <li className="engagement__button">
+                                    Écologique
+                                </li>
 
-                            <li className="engagement__button">
-                                Éthique
-                            </li>
-                        </ul>
+                                <li className="engagement__button">
+                                    Éthique
+                                </li>
+                            </ul>
+                        </div>
                     </Link>
 
                     <Link style={{ textDecoration: "none" }} to="/prestations">

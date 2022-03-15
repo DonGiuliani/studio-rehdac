@@ -1,5 +1,5 @@
 import Articles from "../components/Articles/Articles";
-import Banner from "../components/Header/Banner";
+import Banner from "../components/Banner/Banner";
 import "./Pages.css";
 
 export default function Blog() {

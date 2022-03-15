@@ -1,4 +1,4 @@
-import Banner from "../components/Header/Banner";
+import Banner from "../components/Banner/Banner";
 import ecoresponsable from "../images/ecoresponsable.png";
 import ethique from "../images/ethique.jpg";
 import { Link } from "react-router-dom";
@@ -21,7 +21,6 @@ export default function Engagements() {
 
                 <ul id="engagement__bloc">
                     <div>
-                        {/* */}
                         <Link className="engagement__article" style={{ textDecoration: "none" }} to={"/engagements/ecoresponsable"}>
                             <li>
                                 <img className="engagement__image" src={ecoresponsable} />
