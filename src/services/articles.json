@@ -1,0 +1,32 @@
+[
+    {
+        "image": "https://th.bing.com/th/id/OIP.NYqAmQImuxPTUIzeNj_TEAHaEK?pid=ImgDet&rs=1",
+        "titre": "Bienvenue sur mon tout nouveau site web",
+        "corps": "Un magnifique site est sur le point d'émerger !",
+        "url": "bienvenue-sur-mon-tout-nouveau-site-web"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.ztRaeQal-_WSJpZk3-sNLAHaEK?pid=ImgDet&rs=1",
+        "titre": "Ceci est un deuxième article",
+        "corps": "Je trouve le thème musical de Wonder Woman vraiment chanmé",
+        "url": "ceci-est-un-deuxieme-article"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.ztRaeQal-_WSJpZk3-sNLAHaEK?pid=ImgDet&rs=1",
+        "titre": "Ceci est un troisième article",
+        "corps": "Je trouve le thème musical de Wonder Woman vraiment chanmé",
+        "url": "ceci-est-un-troisieme-article"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.ztRaeQal-_WSJpZk3-sNLAHaEK?pid=ImgDet&rs=1",
+        "titre": "Ceci est un quatrième article",
+        "corps": "Je trouve le thème musical de Wonder Woman vraiment chanmé",
+        "url": "ceci-est-un-quatrieme-article"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.ztRaeQal-_WSJpZk3-sNLAHaEK?pid=ImgDet&rs=1",
+        "titre": "Ceci est un cinquième article",
+        "corps": "Je trouve le thème musical de Wonder Woman vraiment chanmé",
+        "url": "ceci-est-un-cinquieme-article"
+    }
+]

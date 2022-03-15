@@ -1,0 +1,47 @@
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4em;
+}
+
+#follow__message {
+    font-size: 1em;
+}
+
+#networks, #particulars {
+    list-style-type: none;
+}
+
+#networks__bloc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#networks {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    margin-top: 0;
+}
+
+.network__link {
+    text-decoration: none;
+}
+
+#insta__logo {
+    width: 3em;
+    margin-right: 1em;
+}
+
+#linkedin__logo {
+    width: 2.8em;
+}
+
+#particulars {
+    padding: 0;
+}
